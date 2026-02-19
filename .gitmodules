@@ -19,3 +19,6 @@
 [submodule ".github/workflows"]
 	path = .github/workflows
 	url = git@github.com:edftechnology/workflows.git
+[submodule ".vscode"]
+	path = .vscode
+	url = git@github.com:edftechnology/.vscode.git
